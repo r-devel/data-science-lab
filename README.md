@@ -51,9 +51,10 @@ We get all of these in the R Dev Container: <https://github.com/r-devel/r-dev-en
 - Work through building R tutorial: https://contributor.r-project.org/r-dev-env/tutorials/building_r/
   - Note we're checking out R 4.4.3, so need in step 2:
 
-``` 
-svn checkout https://svn.r-project.org/R/tags/R-4-3-3 $TOP_SRCDIR
-```
+  ``` 
+  svn checkout https://svn.r-project.org/R/tags/R-4-3-3 $TOP_SRCDIR
+  ```
+- Creating a patch: <https://contributor.r-project.org/r-dev-env/tutorials/patch_update/>
 
 ## R Contribution Working Group (RCWG) 
 
