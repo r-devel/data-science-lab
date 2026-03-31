@@ -1,5 +1,7 @@
 # data-science-lab
 
+Notes for Ella Kaye's guest session at Posit's [Data Science Lab](https://pos.it/dslab) on March 31st, 2026.
+
 ## What even is base R? (feat. some of Ella's contributions)
 
 - [base-tidyverse.R](base-tidyverse.R)
